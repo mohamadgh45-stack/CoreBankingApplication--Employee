@@ -1,0 +1,7 @@
+pymssql
+python-dotenv
+requests
+captcha
+Pillow
+sqlalchemy
+pyodbc
